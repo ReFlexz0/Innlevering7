@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "lqmh",
+        "Artist": "Harry Styles",
+        "Album": "Harry's House",
+        "Plateselskap": "Columbia Records",
+        "Aar": 2022,
+        "Format": "LP",
+        "Avspillingshastighet": "45 rpm",
+        "Farge": "Gul"
+    },
+    {
+        "ID": "e18b",
+        "Artist": "Black Sabbath",
+        "Album": "Master of Reality",
+        "Plateselskap": "Vertigo",
+        "Aar": "1971",
+        "Format": "LP",
+        "Avspillingshastighet": "33 rpm",
+        "Farge": "Svart"
+    },
+    {
+        "ID": "hu7w",
+        "Artist": "The Prodigy",
+        "Album": "The Fat of the Land",
+        "Plateselskap": "Maverick",
+        "Aar": "1997",
+        "Format": "CD",
+        "Avspillingshastighet": "-",
+        "Farge": "-"
+    },
+    {
+        "ID": "mncg",
+        "Artist": "Taylor Swift",
+        "Album": "Lover",
+        "Plateselskap": "Republic Records",
+        "Aar": "2019",
+        "Format": "CD",
+        "Avspillingshastighet": "-",
+        "Farge": "-"
+    },
+    {
+        "ID": "3r9c",
+        "Artist": "Tyler, the Creator",
+        "Album": "Call Me If You Get Lost",
+        "Plateselskap": "Columbia Records",
+        "Aar": "2021",
+        "Format": "CD",
+        "Avspillingshastighet": "-",
+        "Farge": "-"
+    },
+    {
+        "ID": "nojn",
+        "Artist": "Oasis",
+        "Album": "Definitly Maybe",
+        "Plateselskap": "Epic",
+        "Aar": "1994",
+        "Format": "LP",
+        "Avspillingshastighet": "33 rpm",
+        "Farge": "Svart"
+    }
+]
